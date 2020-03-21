@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gsi-artnet", "gsi-artnet\gsi-artnet.csproj", "{B4F2AB32-D4C3-4D55-ADE3-E4F2AB475302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F2AB32-D4C3-4D55-ADE3-E4F2AB475302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F2AB32-D4C3-4D55-ADE3-E4F2AB475302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F2AB32-D4C3-4D55-ADE3-E4F2AB475302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F2AB32-D4C3-4D55-ADE3-E4F2AB475302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D23DC2-2A04-4614-8A76-EB0EFFC19AE5}
+	EndGlobalSection
+EndGlobal
