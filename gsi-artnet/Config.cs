@@ -7,7 +7,6 @@ namespace gsi_artnet
     [Serializable]
     class Config
     {
-        public int DefaultScreen = 0;
         public bool Debug = false;
         public string ArtNetIP = "127.0.0.1";
         public string ArtNetMask = "255.255.255.0";

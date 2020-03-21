@@ -40,6 +40,7 @@ namespace gsi_artnet
                 Console.WriteLine("Could not initialize ArtNet! Exiting...");
                 Environment.Exit(0);
             }
+            Console.WriteLine("Listening for CS:GO GSI data...");
         }
 
         static void InitializeArtNet()

@@ -1,0 +1,6 @@
+{
+  "Debug":false,
+  "ArtNetIP": "127.0.0.1",
+  "ArtNetMask": "255.255.255.0",
+  "ArtNetUniverse":0
+}
